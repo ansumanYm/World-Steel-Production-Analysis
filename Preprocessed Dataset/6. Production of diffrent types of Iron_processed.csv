@@ -1,0 +1,72 @@
+Country,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,Division,Units,Product Type
+Austria,4353.0,5621.0,5815.0,5751.0,6152.0,6029.0,5805.0,5642.0,6335.0,5269.0,European Union (28),thousand metric tons,Pig Iron
+Belgium,3087.0,4688.0,4725.0,4073.0,4343.0,4388.0,4248.0,4869.0,4849.0,4790.0,European Union (28),thousand metric tons,Pig Iron
+Czech Republic,3483.0,3987.0,4137.0,3935.0,4040.0,4152.0,4031.0,4165.0,3691.0,4005.0,European Union (28),thousand metric tons,Pig Iron
+Germany,19715.0,28112.0,27563.0,26493.0,26678.0,27379.0,27842.0,27270.0,27816.0,27271.0,European Union (28),thousand metric tons,Pig Iron
+Finland,2042.0,2564.0,2500.0,2130.0,2050.0,2475.0,2594.0,2670.0,2604.0,2700.0,European Union (28),thousand metric tons,Pig Iron
+France,8104.0,10137.0,9698.0,9532.0,10276.0,10866.0,10097.0,9724.0,10678.0,10530.0,European Union (28),thousand metric tons,Pig Iron
+Hungary,1050.0,1325.0,1317.0,1229.0,628.0,801.0,1247.0,864.0,1311.0,1355.0,European Union (28),thousand metric tons,Pig Iron
+Italy,5692.0,8555.0,9838.0,9424.0,6933.0,6371.0,5051.0,6044.0,5052.0,4836.0,European Union (28),thousand metric tons,Pig Iron
+Netherlands,4601.0,5799.0,5943.0,5917.0,5681.0,5868.0,6050.0,6092.0,6145.0,6150.0,European Union (28),thousand metric tons,Pig Iron
+Poland,2984.0,3638.0,3975.0,3952.0,4011.0,4637.0,4821.0,4674.0,5151.0,4853.0,European Union (28),thousand metric tons,Pig Iron
+Romania,1575.0,1726.0,1593.0,1467.0,1604.0,1631.0,1983.0,1972.0,1927.0,1979.0,European Union (28),thousand metric tons,Pig Iron
+Slovak Republic,3019.0,3649.0,3346.0,3520.0,3617.0,3838.0,3738.0,3987.0,4106.0,4220.0,European Union (28),thousand metric tons,Pig Iron
+Spain,2920.0,3572.0,3540.0,3081.0,3949.0,3958.0,4450.0,4116.0,4462.0,4521.0,European Union (28),thousand metric tons,Pig Iron
+Sweden,1966.0,3447.0,3240.0,2805.0,2896.0,3078.0,2865.0,3079.0,3111.0,2877.0,European Union (28),thousand metric tons,Pig Iron
+United Kingdom,7671.0,7233.0,6625.0,7183.0,9471.0,9705.0,8774.0,6142.0,5996.0,5588.0,European Union (28),thousand metric tons,Pig Iron
+Bosnia-Herzegovina,483.0,621.0,685.0,750.0,759.0,860.0,845.0,778.0,738.0,664.0,Other Europe,thousand metric tons,Pig Iron
+Norway,83.0,108.0,101.0,100.0,106.0,102.0,59.0,43.0,74.0,79.0,Other Europe,thousand metric tons,Pig Iron
+Serbia,1008.0,1235.0,1226.0,312.0,365.0,550.0,904.0,1154.0,1340.0,1593.0,Other Europe,thousand metric tons,Pig Iron
+Turkey,7004.0,7679.0,8173.0,8613.0,9180.0,9364.0,10184.0,10304.0,10589.0,10536.0,Other Europe,thousand metric tons,Pig Iron
+Kazakhstan,2409.0,2640.0,3190.0,2831.0,2756.0,3185.0,3235.0,6901.0,3769.0,2834.0,C.I.S.,thousand metric tons,Pig Iron
+Russia,43945.0,47934.0,48117.0,50529.0,50111.0,51479.0,52553.0,51877.0,52036.0,51664.0,C.I.S.,thousand metric tons,Pig Iron
+Ukraine,25676.0,27349.0,28867.0,28500.0,29094.0,24788.0,21797.0,23618.0,20147.0,20563.0,C.I.S.,thousand metric tons,Pig Iron
+Canada,5273.0,7666.0,7323.0,7654.0,6100.0,6728.0,5851.0,6240.0,6306.0,6680.0,North America,thousand metric tons,Pig Iron
+Mexico,3919.0,4707.0,4609.0,4611.0,4911.0,5115.0,4573.0,4476.0,4245.0,4428.0,North America,thousand metric tons,Pig Iron
+United States,19018.0,26843.0,30227.0,32062.0,30308.0,29374.0,25435.0,22293.0,22395.0,24058.0,North America,thousand metric tons,Pig Iron
+Argentina,2042.0,2532.0,2801.0,2073.0,2650.0,2766.0,2685.0,2141.0,2171.0,2184.0,South America,thousand metric tons,Pig Iron
+Brazil,25135.0,30955.0,33319.0,26900.0,26200.0,27016.0,27985.0,26345.0,28572.0,28655.0,South America,thousand metric tons,Pig Iron
+Chile,923.0,635.0,1072.0,1068.0,766.0,584.0,644.0,677.0,670.0,661.0,South America,thousand metric tons,Pig Iron
+Colombia,342.0,327.0,302.0,345.0,307.0,234.0,240.0,225.0,203.0,205.0,South America,thousand metric tons,Pig Iron
+Paraguay,71.0,81.0,42.0,67.0,69.0,71.0,73.0,50.0,38.0,39.0,South America,thousand metric tons,Pig Iron
+Algeria,680.0,696.0,360.0,350.0,300.0,300.0,300.0,300.0,300.0,300.0,Africa,thousand metric tons,Pig Iron
+Egypt,800.0,600.0,600.0,550.0,550.0,550.0,500.0,500.0,500.0,500.0,Africa,thousand metric tons,Pig Iron
+South Africa,4444.0,5429.0,4604.0,4599.0,4928.0,4402.0,4464.0,4311.0,4352.0,4611.0,Africa,thousand metric tons,Pig Iron
+Iran,2433.0,2540.0,2242.0,2143.0,2007.0,2782.0,2459.0,2251.0,2293.0,2362.0,Middle East,thousand metric tons,Pig Iron
+China,568634.0,595601.0,645429.0,670102.0,711499.0,713748.0,691413.0,702273.0,713619.0,771054.0,Asia,thousand metric tons,Pig Iron
+India,38233.0,39560.0,43624.0,47987.0,51359.0,55166.0,58394.0,63714.0,66808.0,72610.0,Asia,thousand metric tons,Pig Iron
+Indonesia,0.0,0.0,0.0,0.0,0.0,1730.0,2460.0,2640.0,2650.0,2730.0,Asia,thousand metric tons,Pig Iron
+Japan,66943.0,82283.0,81028.0,81405.0,83849.0,83872.0,81011.0,80186.0,78330.0,77328.0,Asia,thousand metric tons,Pig Iron
+DPR Korea,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,250.0,Asia,thousand metric tons,Pig Iron
+South Korea,27284.0,35065.0,42213.0,41734.0,41045.0,46909.0,47639.0,46336.0,47071.0,47124.0,Asia,thousand metric tons,Pig Iron
+Malaysia,0.0,0.0,0.0,0.0,0.0,0.0,477.0,522.0,382.0,487.0,Asia,thousand metric tons,Pig Iron
+Pakistan,629.0,415.0,358.0,198.0,165.0,142.0,163.0,0.0,0.0,0.0,Asia,thousand metric tons,Pig Iron
+"Taiwan, China",7939.0,9358.0,12718.0,11785.0,13319.0,14440.0,14370.0,14890.0,14361.0,14841.0,Asia,thousand metric tons,Pig Iron
+Viet Nam,275.0,500.0,600.0,650.0,650.0,1393.0,1700.0,2600.0,4250.0,8323.0,Asia,thousand metric tons,Pig Iron
+Australia,4370.0,6005.0,5265.0,3710.0,3477.0,3282.0,3594.0,3642.0,3758.0,3882.0,Oceania,thousand metric tons,Pig Iron
+New Zealand,608.0,667.0,659.0,670.0,682.0,680.0,678.0,670.0,683.0,679.0,Oceania,thousand metric tons,Pig Iron
+Germany,389.0,448.0,380.0,555.0,498.0,566.0,551.0,600.0,600.0,560.0,European Union (28),thousand metric tons,Direct Reduced Iron
+Sweden,96.0,123.0,117.0,105.0,113.0,105.0,109.0,102.0,103.0,109.0,European Union (28),thousand metric tons,Direct Reduced Iron
+Russia,4600.0,4700.0,5200.0,5125.0,5329.0,5350.0,5436.0,5820.0,7242.0,7901.0,C.I.S.,thousand metric tons,Direct Reduced Iron
+Canada,342.0,600.0,702.0,842.0,1250.0,1550.0,1502.0,1399.0,1608.0,1670.0,North America,thousand metric tons,Direct Reduced Iron
+Mexico,4147.0,5368.0,5854.0,5586.0,6100.0,5979.0,5499.0,5306.0,6011.0,5972.0,North America,thousand metric tons,Direct Reduced Iron
+Trinidad and Tobago,1990.0,3080.0,3030.0,3250.0,3290.0,3240.0,2520.0,129.0,0.0,0.0,North America,thousand metric tons,Direct Reduced Iron
+United States,0.0,0.0,0.0,0.0,0.0,1300.0,1100.0,1810.0,2000.0,3350.0,North America,thousand metric tons,Direct Reduced Iron
+Argentina,807.0,1566.0,1670.0,1607.0,1466.0,1663.0,1252.0,773.0,1231.0,1606.0,South America,thousand metric tons,Direct Reduced Iron
+Brazil,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,South America,thousand metric tons,Direct Reduced Iron
+Peru,100.0,100.0,94.0,96.0,93.0,88.0,72.0,11.0,0.0,0.0,South America,thousand metric tons,Direct Reduced Iron
+Venezuela,5508.0,3793.0,4159.0,4472.0,2727.0,1402.0,1356.0,908.0,491.0,442.0,South America,thousand metric tons,Direct Reduced Iron
+Egypt,3051.0,2965.0,2932.0,3068.0,3432.0,2882.0,2451.0,2618.0,4667.0,5753.0,Africa,thousand metric tons,Direct Reduced Iron
+Libya,1077.0,1270.0,165.0,508.0,956.0,998.0,449.0,699.0,560.0,612.0,Africa,thousand metric tons,Direct Reduced Iron
+South Africa,1340.0,1120.0,1414.0,1493.0,1295.0,1612.0,1125.0,702.0,925.0,835.0,Africa,thousand metric tons,Direct Reduced Iron
+Bahrain,0.0,0.0,0.0,0.0,780.0,1440.0,1230.0,1260.0,1300.0,1500.0,Middle East,thousand metric tons,Direct Reduced Iron
+Iran,8099.0,9350.0,10368.0,11582.0,14458.0,14551.0,14546.0,16013.0,19401.0,25745.0,Middle East,thousand metric tons,Direct Reduced Iron
+Oman,0.0,0.0,1242.0,1520.0,1468.0,1420.0,1509.0,1439.0,1526.0,1500.0,Middle East,thousand metric tons,Direct Reduced Iron
+Qatar,2097.0,2250.0,2350.0,2420.0,2386.0,2549.0,2631.0,2506.0,2548.0,2526.0,Middle East,thousand metric tons,Direct Reduced Iron
+Saudi Arabia,4623.0,4937.0,5153.0,4976.0,5298.0,5508.0,4841.0,5119.0,4812.0,4989.0,Middle East,thousand metric tons,Direct Reduced Iron
+United Arab Emirates,0.0,1180.0,1800.0,2699.0,3075.0,2409.0,3190.0,3479.0,3608.0,3784.0,Middle East,thousand metric tons,Direct Reduced Iron
+China,42.0,0.0,0.0,0.0,0.0,1000.0,0.0,0.0,0.0,0.0,Asia,thousand metric tons,Direct Reduced Iron
+India,23445.0,24931.0,25332.0,23438.0,22615.0,24542.0,22644.0,24574.0,29505.0,34213.0,Asia,thousand metric tons,Direct Reduced Iron
+Indonesia,1119.0,1274.0,1228.0,524.0,757.0,155.0,53.0,0.0,22.0,237.0,Asia,thousand metric tons,Direct Reduced Iron
+Malaysia,2388.0,2390.0,2877.0,2329.0,1399.0,1007.0,957.0,656.0,570.0,743.0,Asia,thousand metric tons,Direct Reduced Iron
+Pakistan,0.0,0.0,0.0,0.0,60.0,0.0,0.0,0.0,0.0,0.0,Asia,thousand metric tons,Direct Reduced Iron

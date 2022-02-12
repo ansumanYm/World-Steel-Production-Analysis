@@ -1,0 +1,170 @@
+Country,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,Product Type,Division,Unit
+Austria,5662,7206,7474,7421,7953,7876,7687,7438,8135,6885,Crude Steel,European Union (28),thousand metric tons
+Belgium,5635,7973,8026,7301,7127,7331,7257,7687,7842,7980,Crude Steel,European Union (28),thousand metric tons
+Bulgaria,726,737,835,633,523,612,543,527,652,666,Crude Steel,European Union (28),thousand metric tons
+Croatia,43,95,96,1,135,167,122,0,0,136,Crude Steel,European Union (28),thousand metric tons
+Czech Republic,4594,5180,5583,5072,5171,5360,5262,5305,4550,4938,Crude Steel,European Union (28),thousand metric tons
+Germany,32670,43830,44284,42661,42645,42943,42676,42080,43297,42435,Crude Steel,European Union (28),thousand metric tons
+Finland,3066,4029,3989,3759,3517,3807,3988,4101,4003,4146,Crude Steel,European Union (28),thousand metric tons
+France,12840,15414,15780,15609,15685,16143,14984,14413,15505,15387,Crude Steel,European Union (28),thousand metric tons
+Greece,2000,1821,1934,1247,1030,1022,910,1158,1359,1467,Crude Steel,European Union (28),thousand metric tons
+Hungary,1403,1678,1746,1542,883,1152,1675,1274,1901,1989,Crude Steel,European Union (28),thousand metric tons
+Italy,19848,25750,28735,27252,24093,23714,22018,23373,24068,24532,Crude Steel,European Union (28),thousand metric tons
+Latvia,692,655,568,805,198,0,0,0,0,0,Crude Steel,European Union (28),thousand metric tons
+Luxembourg,2141,2548,2521,2208,2090,2193,2127,2175,2172,2228,Crude Steel,European Union (28),thousand metric tons
+Netherlands,5194,6651,6937,6879,6713,6964,6995,6917,6781,6813,Crude Steel,European Union (28),thousand metric tons
+Poland,7128,7993,8779,8366,7950,8558,9198,9001,10332,10167,Crude Steel,European Union (28),thousand metric tons
+Portugal,1614,1543,1942,1960,2050,2070,2030,2010,2076,2215,Crude Steel,European Union (28),thousand metric tons
+Romania,2761,3721,3828,3292,2985,3158,3352,3276,3361,3550,Crude Steel,European Union (28),thousand metric tons
+Slovak Republic,3747,4583,4236,4403,4511,4705,4562,4808,4974,5225,Crude Steel,European Union (28),thousand metric tons
+Slovenia,430,606,648,632,618,615,604,613,648,654,Crude Steel,European Union (28),thousand metric tons
+Spain,14358,16343,15504,13639,14252,14249,14845,13616,14441,14320,Crude Steel,European Union (28),thousand metric tons
+Sweden,2804,4846,4867,4326,4404,4539,4557,4817,4926,4654,Crude Steel,European Union (28),thousand metric tons
+United Kingdom,10074,9708,9478,9579,11858,12033,10907,7635,7491,7268,Crude Steel,European Union (28),thousand metric tons
+Albania,221,390,464,500,550,560,150,50,0,0,Crude Steel,Other Europe,thousand metric tons
+Bosnia-Herzegovina,519,592,649,700,722,793,819,806,756,695,Crude Steel,Other Europe,thousand metric tons
+Macedonia,270,292,386,217,100,188,121,169,273,266,Crude Steel,Other Europe,thousand metric tons
+Montenegro,130,130,140,120,70,140,150,120,120,120,Crude Steel,Other Europe,thousand metric tons
+Norway,595,530,610,700,605,600,590,620,603,575,Crude Steel,Other Europe,thousand metric tons
+Serbia,1061,1254,1324,346,396,583,955,1173,1477,1973,Crude Steel,Other Europe,thousand metric tons
+Switzerland,934,1320,1400,1450,1530,1475,1475,1500,1450,1500,Crude Steel,Other Europe,thousand metric tons
+Turkey,25304,29143,34107,35885,34654,34035,31517,33163,37524,37312,Crude Steel,Other Europe,thousand metric tons
+Azerbaijan,120,120,120,120,173,180,180,180,180,200,Crude Steel,C.I.S.,thousand metric tons
+Belarus,2417,2530,2614,2687,2245,2513,2510,2188,2343,2470,Crude Steel,C.I.S.,thousand metric tons
+Kazakhstan,4146,4220,4699,3676,3275,3681,3910,4289,4641,3964,Crude Steel,C.I.S.,thousand metric tons
+Moldova,426,240,313,335,190,351,443,126,469,497,Crude Steel,C.I.S.,thousand metric tons
+Russia,60011,66942,68852,70209,69008,71461,70898,70453,71491,72042,Crude Steel,C.I.S.,thousand metric tons
+Ukraine,29855,33432,35332,32975,32771,27170,22968,24218,21417,21100,Crude Steel,C.I.S.,thousand metric tons
+Uzbekistan,716,716,733,736,746,723,643,654,654,646,Crude Steel,C.I.S.,thousand metric tons
+Canada,9292,13009,12891,13507,12417,12730,12473,12646,13208,13443,Crude Steel,North America,thousand metric tons
+Cuba,267,278,282,277,322,256,284,244,221,225,Crude Steel,North America,thousand metric tons
+El Salvador,56,64,97,72,118,121,124,100,96,99,Crude Steel,North America,thousand metric tons
+Guatemala,224,274,294,334,385,395,403,314,294,300,Crude Steel,North America,thousand metric tons
+Mexico,14132,16870,18110,18073,18242,18930,18218,18824,19955,20204,Crude Steel,North America,thousand metric tons
+Trinidad and Tobago,417,572,603,628,616,487,591,36,0,0,Crude Steel,North America,thousand metric tons
+United States,59384,80495,86398,88695,86878,88174,78845,78475,81612,86607,Crude Steel,North America,thousand metric tons
+Argentina,4013,5138,5611,4995,5186,5488,5028,4126,4624,5162,Crude Steel,South America,thousand metric tons
+Brazil,26506,32948,35220,34524,34163,33897,33258,31642,34778,35407,Crude Steel,South America,thousand metric tons
+Chile,1308,1011,1615,1671,1323,1079,1112,1153,1158,1145,Crude Steel,South America,thousand metric tons
+Colombia,1052,1208,1287,1302,1236,1208,1211,1272,1253,1219,Crude Steel,South America,thousand metric tons
+Ecuador,259,372,463,425,570,667,720,576,561,583,Crude Steel,South America,thousand metric tons
+Paraguay,54,59,30,44,45,47,48,35,24,25,Crude Steel,South America,thousand metric tons
+Peru,718,880,877,981,1069,1078,1082,1168,1207,1217,Crude Steel,South America,thousand metric tons
+Uruguay,57,65,81,78,91,94,97,61,58,60,Crude Steel,South America,thousand metric tons
+Venezuela,3808,2207,2980,2359,2139,1485,1345,553,444,129,Crude Steel,South America,thousand metric tons
+Algeria,597,662,551,557,417,415,650,650,415,2000,Crude Steel,Africa,thousand metric tons
+D.R. Congo,30,30,30,30,30,30,30,30,30,30,Crude Steel,Africa,thousand metric tons
+Egypt,5541,6676,6485,6627,6754,6485,5506,5036,6870,7807,Crude Steel,Africa,thousand metric tons
+Ghana,25,25,25,25,25,25,25,25,25,25,Crude Steel,Africa,thousand metric tons
+Kenya,20,20,20,20,20,20,20,20,20,20,Crude Steel,Africa,thousand metric tons
+Libya,914,825,100,315,712,712,352,492,422,396,Crude Steel,Africa,thousand metric tons
+Mauritania,5,5,5,5,5,5,5,5,5,5,Crude Steel,Africa,thousand metric tons
+Morocco,499,485,654,539,558,501,516,520,550,600,Crude Steel,Africa,thousand metric tons
+Nigeria,100,100,100,100,100,100,100,100,100,100,Crude Steel,Africa,thousand metric tons
+South Africa,7484,7617,7546,6938,7162,6412,6417,6141,6301,6327,Crude Steel,Africa,thousand metric tons
+Tunisia,155,150,150,150,150,150,50,50,50,50,Crude Steel,Africa,thousand metric tons
+Uganda,30,30,30,30,30,30,30,30,30,30,Crude Steel,Africa,thousand metric tons
+Iran,10908,11995,13197,14463,15422,16331,16146,17895,21236,24520,Crude Steel,Middle East,thousand metric tons
+Israel,300,300,300,300,300,300,300,300,300,300,Crude Steel,Middle East,thousand metric tons
+Jordan,150,150,150,150,150,150,150,150,150,150,Crude Steel,Middle East,thousand metric tons
+Oman,0,0,200,300,500,1500,2000,2000,2000,2000,Crude Steel,Middle East,thousand metric tons
+Qatar,1448,1970,2038,2145,2236,3019,2593,2521,2644,2575,Crude Steel,Middle East,thousand metric tons
+Saudi Arabia,4690,5015,5275,5203,5471,6291,5229,5461,4831,5240,Crude Steel,Middle East,thousand metric tons
+Syria,70,70,70,10,10,5,5,5,5,5,Crude Steel,Middle East,thousand metric tons
+United Arab Emirates,200,500,2000,2408,2878,136,3006,3149,3309,3247,Crude Steel,Middle East,thousand metric tons
+Bangladesh,70,78,85,87,84,90,100,100,100,100,Crude Steel,Asia,thousand metric tons
+China,577070,638743,701968,731040,822000,822306,803825,807609,870855,928264,Crude Steel,Asia,thousand metric tons
+India,63527,68976,73471,77264,81299,87292,89026,95477,101455,109272,Crude Steel,Asia,thousand metric tons
+Indonesia,3501,3664,3621,2254,2644,4351,4854,4746,5195,6183,Crude Steel,Asia,thousand metric tons
+Japan,87534,109599,107601,107232,110595,110666,105134,104775,104661,104319,Crude Steel,Asia,thousand metric tons
+D.P.R. Korea,1300,1300,1300,1280,1250,1250,1250,1250,1250,1250,Crude Steel,Asia,thousand metric tons
+South Korea,48572,58914,68519,69073,66061,71543,69670,68576,71030,72464,Crude Steel,Asia,thousand metric tons
+Malaysia,5354,5694,5941,5612,4693,4316,3784,2764,3215,4108,Crude Steel,Asia,thousand metric tons
+Mongolia,35,35,35,35,40,45,45,50,50,50,Crude Steel,Asia,thousand metric tons
+Myanmar,25,25,25,25,30,35,35,35,35,35,Crude Steel,Asia,thousand metric tons
+Pakistan,1199,1401,1592,1631,1845,2423,2892,3553,4966,4719,Crude Steel,Asia,thousand metric tons
+Philippines,824,1050,1200,1260,1308,1196,968,1075,1378,1475,Crude Steel,Asia,thousand metric tons
+Singapore,664,728,752,688,434,540,501,520,596,618,Crude Steel,Asia,thousand metric tons
+Sri Lanka,30,30,30,30,30,30,30,30,30,30,Crude Steel,Asia,thousand metric tons
+"Taiwan, China",15814,19755,20178,20664,22282,23221,21392,21751,22438,23240,Crude Steel,Asia,thousand metric tons
+Thailand,3646,4145,4256,3641,3613,5835,5069,5400,6762,6403,Crude Steel,Asia,thousand metric tons
+Viet Nam,2700,4314,4900,5298,5474,5847,5647,7811,11473,15471,Crude Steel,Asia,thousand metric tons
+Australia,5249,7296,6404,4893,4688,4607,4925,5259,5328,5689,Crude Steel,Oceania,thousand metric tons
+New Zealand,765,853,844,912,900,859,793,577,657,652,Crude Steel,Oceania,thousand metric tons
+Austria,5394,6619,6875,6900,7377,7148,7601,7594,7999,7495,Hot Rolled Products,European Union (28),thousand metric tons
+Belgium,7172,9649,10012,8917,8293,8392,8938,8735,9292,10260,Hot Rolled Products,European Union (28),thousand metric tons
+Bulgaria,947,896,1115,818,875,935,840,921,911,1131,Hot Rolled Products,European Union (28),thousand metric tons
+Croatia,76,81,69,15,16,17,16,17,15,13,Hot Rolled Products,European Union (28),thousand metric tons
+Czech Republic,3955,4625,4616,4276,4416,4375,4459,4657,4053,4458,Hot Rolled Products,European Union (28),thousand metric tons
+Denmark,313,470,540,360,480,490,575,615,590,655,Hot Rolled Products,European Union (28),thousand metric tons
+Germany,29990,38103,39286,37843,37687,37713,37562,37602,37539,36584,Hot Rolled Products,European Union (28),thousand metric tons
+Finland,2537,3380,3380,3355,3195,3440,3560,3660,3700,3770,Hot Rolled Products,European Union (28),thousand metric tons
+France,3336,3388,3486,13529,14716,15464,14994,14319,15103,14738,Hot Rolled Products,European Union (28),thousand metric tons
+Greece,1855,1635,1790,1155,985,965,875,1020,1140,1200,Hot Rolled Products,European Union (28),thousand metric tons
+Hungary,1452,1594,1765,1928,1936,1823,1714,1593,1972,2086,Hot Rolled Products,European Union (28),thousand metric tons
+Italy,20743,25359,27978,26309,23553,23150,21730,23205,23227,23533,Hot Rolled Products,European Union (28),thousand metric tons
+Latvia,692,650,570,810,814,150,200,0,0,0,Hot Rolled Products,European Union (28),thousand metric tons
+Luxembourg,2418,2737,2220,2136,2015,2124,2034,2056,2055,2166,Hot Rolled Products,European Union (28),thousand metric tons
+Netherlands,4997,6274,6401,6418,6370,6657,6814,6465,6589,6971,Hot Rolled Products,European Union (28),thousand metric tons
+Poland,6358,7050,7844,7789,7514,7650,7953,8229,9039,9105,Hot Rolled Products,European Union (28),thousand metric tons
+Portugal,1483,1330,1765,1870,1910,1860,1835,1750,1700,1900,Hot Rolled Products,European Union (28),thousand metric tons
+Romania,2862,3580,3860,3080,2750,2945,3200,3120,3100,3200,Hot Rolled Products,European Union (28),thousand metric tons
+Slovak Republic,3395,3726,3468,3600,3660,4607,4300,4300,4350,4380,Hot Rolled Products,European Union (28),thousand metric tons
+Slovenia,355,492,530,580,555,555,555,570,605,610,Hot Rolled Products,European Union (28),thousand metric tons
+Spain,14406,15511,15251,13166,12954,13529,13781,13181,13589,13777,Hot Rolled Products,European Union (28),thousand metric tons
+Sweden,2956,4100,4125,3420,3500,3800,3950,4120,4200,4020,Hot Rolled Products,European Union (28),thousand metric tons
+United Kingdom,7135,8415,7993,7054,8053,8148,7988,6680,6330,6529,Hot Rolled Products,European Union (28),thousand metric tons
+Albania,280,236,295,355,480,435,475,100,0,0,Hot Rolled Products,Other Europe,thousand metric tons
+Bosnia-Herzegovina,435,475,548,565,592,605,650,690,690,685,Hot Rolled Products,Other Europe,thousand metric tons
+Montenegro,120,120,125,110,65,135,140,100,100,100,Hot Rolled Products,Other Europe,thousand metric tons
+Norway,470,405,450,465,450,475,480,500,460,465,Hot Rolled Products,Other Europe,thousand metric tons
+Serbia,950,1120,1180,340,390,550,860,1050,1310,1690,Hot Rolled Products,Other Europe,thousand metric tons
+Turkey,25133,26300,31943,34286,36405,36093,36939,36882,39154,39510,Hot Rolled Products,Other Europe,thousand metric tons
+Belarus,2296,1567,1685,1898,1818,1855,1878,1878,1891,2009,Hot Rolled Products,C.I.S.,thousand metric tons
+Kazakhstan,3098,3033,3355,2689,2803,3173,3474,3669,4261,3818,Hot Rolled Products,C.I.S.,thousand metric tons
+Moldova,441,231,307,360,180,333,421,120,446,472,Hot Rolled Products,C.I.S.,thousand metric tons
+Russia,50840,42959,45351,46653,46966,48653,48106,48079,48640,49201,Hot Rolled Products,C.I.S.,thousand metric tons
+Ukraine,14900,17799,19807,18577,17594,14942,12370,13147,12781,18361,Hot Rolled Products,C.I.S.,thousand metric tons
+Uzbekistan,700,700,720,725,735,785,850,860,850,850,Hot Rolled Products,C.I.S.,thousand metric tons
+Canada,8685,12365,12080,12321,12192,11984,11954,11977,11860,13718,Hot Rolled Products,North America,thousand metric tons
+Costa Rica,280,287,308,372,447,460,474,382,378,393,Hot Rolled Products,North America,thousand metric tons
+Cuba,120,108,118,126,150,105,126,130,114,117,Hot Rolled Products,North America,thousand metric tons
+Dominican Republic,268,273,272,395,406,516,425,385,471,523,Hot Rolled Products,North America,thousand metric tons
+El Salvador,69,78,97,78,81,83,85,97,90,92,Hot Rolled Products,North America,thousand metric tons
+Guatemala,288,345,376,449,557,574,591,474,454,463,Hot Rolled Products,North America,thousand metric tons
+Mexico,12994,14809,15793,16269,16357,17742,17573,18697,18694,18872,Hot Rolled Products,North America,thousand metric tons
+Trinidad and Tobago,238,361,427,398,297,300,413,25,0,0,Hot Rolled Products,North America,thousand metric tons
+United States,56396,75699,83339,87043,86567,89130,78514,78502,82451,86436,Hot Rolled Products,North America,thousand metric tons
+Argentina,3749,5046,5386,4952,5144,5021,4572,3984,4595,4763,Hot Rolled Products,South America,thousand metric tons
+Brazil,20223,25401,25240,25696,26263,24916,31789,30555,32670,33611,Hot Rolled Products,South America,thousand metric tons
+Chile,1279,1473,1514,1594,1289,1017,1035,1081,1062,1131,Hot Rolled Products,South America,thousand metric tons
+Colombia,1466,1621,1780,1726,1651,1795,1860,1772,1895,1647,Hot Rolled Products,South America,thousand metric tons
+Ecuador,442,546,489,559,691,707,761,682,710,738,Hot Rolled Products,South America,thousand metric tons
+Paraguay,42,44,27,22,23,23,24,19,21,22,Hot Rolled Products,South America,thousand metric tons
+Peru,871,1046,913,1205,1358,1434,1335,1417,1517,1505,Hot Rolled Products,South America,thousand metric tons
+Uruguay,55,59,72,74,76,79,81,75,66,68,Hot Rolled Products,South America,thousand metric tons
+Venezuela,3204,2054,2658,2065,1948,1357,1261,530,404,131,Hot Rolled Products,South America,thousand metric tons
+Algeria,510,560,470,470,400,520,1050,1100,1950,2850,Hot Rolled Products,Africa,thousand metric tons
+Egypt,6352,7939,6588,7265,7438,8137,7676,8001,8059,9598,Hot Rolled Products,Africa,thousand metric tons
+Libya,1370,945,65,310,690,650,440,430,410,650,Hot Rolled Products,Africa,thousand metric tons
+Morocco,963,1035,1090,855,1035,970,1200,1200,950,1000,Hot Rolled Products,Africa,thousand metric tons
+South Africa,5550,5820,5850,5400,5800,5583,5700,5450,5600,5650,Hot Rolled Products,Africa,thousand metric tons
+Tunisia,400,500,395,370,440,440,490,400,500,500,Hot Rolled Products,Africa,thousand metric tons
+Iran,9880,15395,16813,17261,16656,16482,15133,15473,15920,17212,Hot Rolled Products,Middle East,thousand metric tons
+Qatar,1468,1550,1580,1650,1696,1709,1784,1894,1745,1847,Hot Rolled Products,Middle East,thousand metric tons
+Saudi Arabia,4130,4420,4650,4600,4900,5000,5500,5000,4500,5000,Hot Rolled Products,Middle East,thousand metric tons
+United Arab Emirates,1170,1580,1950,2156,2549,2765,2959,3126,3246,3167,Hot Rolled Products,Middle East,thousand metric tons
+China,693405,802014,885195,950641,1086926,1125131,1034684,1048135,1046421,1105517,Hot Rolled Products,Asia,thousand metric tons
+China,578836,655160,717670,768026,859521,872637,849485,814556,814085,855403,Hot Rolled Products,Asia,thousand metric tons
+India,59355,66120,74521,80198,85277,92470,89927,99312,119892,100574,Hot Rolled Products,Asia,thousand metric tons
+Indonesia,5092,5212,5448,5418,5116,6475,6168,6552,7866,10045,Hot Rolled Products,Asia,thousand metric tons
+Japan,76686,97765,94832,94807,96965,97882,93020,92636,92441,92440,Hot Rolled Products,Asia,thousand metric tons
+South Korea,51057,59031,66473,66317,64541,68905,67756,67131,69557,69785,Hot Rolled Products,Asia,thousand metric tons
+Malaysia,5103,4967,5111,4954,4980,4759,4226,3782,3772,3801,Hot Rolled Products,Asia,thousand metric tons
+Philippines,1977,2133,2420,2653,3020,3273,4013,4346,4300,4864,Hot Rolled Products,Asia,thousand metric tons
+Singapore,689,716,750,705,429,540,501,528,596,584,Hot Rolled Products,Asia,thousand metric tons
+"Taiwan, China",18385,23493,24578,24277,24845,25472,25019,26639,27664,28513,Hot Rolled Products,Asia,thousand metric tons
+Thailand,6955,7483,6936,6721,7070,8710,3841,9542,9318,9032,Hot Rolled Products,Asia,thousand metric tons
+Viet Nam,4723,5659,5470,5049,5123,5657,7199,8657,11302,14532,Hot Rolled Products,Asia,thousand metric tons
+Australia,4789,6327,6082,5078,4400,4092,4307,4693,4606,4680,Hot Rolled Products,Oceania,thousand metric tons
+New Zealand,710,810,800,845,830,780,735,650,740,735,Hot Rolled Products,Oceania,thousand metric tons
